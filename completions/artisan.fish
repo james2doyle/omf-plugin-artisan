@@ -1,5 +1,3 @@
-# See → fishshell.com/docs/current/commands.html#complete
-
 function __fish_artisan_complete
 	php artisan --no-ansi | sed "1,/Available commands/d" | php (dirname (status -f))/artisan_complete.php
 end

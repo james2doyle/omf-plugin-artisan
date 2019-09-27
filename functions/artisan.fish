@@ -1,3 +1,3 @@
 function artisan -d "Laravel artisan"
-	php artisan $argv
+    php artisan $argv
 end

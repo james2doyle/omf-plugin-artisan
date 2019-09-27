@@ -14,19 +14,19 @@ Plugin for [Oh My Fish][omf-link].
 ## Install
 
 ```fish
-$ omf install artisan
+$ omf install laravel-artisan
 ```
 
 
 ## Usage
 
 ```fish
-$ artisan
+$ laravel-artisan
 ```
 
 # License
 
-[MIT][mit] © [thecotne][author] et [al][contributors]
+Forked from: [MIT][mit] © [thecotne][author] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT

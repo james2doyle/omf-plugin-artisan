@@ -14,14 +14,14 @@ Plugin for [Oh My Fish][omf-link].
 ## Install
 
 ```fish
-$ omf install laravel-artisan
+$ omf install artisan
 ```
 
 
 ## Usage
 
 ```fish
-$ laravel-artisan
+$ artisan
 ```
 
 # License
